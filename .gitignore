@@ -1,4 +1,3 @@
 logs/ 
 /unwanted
 *.log
-.git/info/exclude
