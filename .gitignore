@@ -1,5 +1,4 @@
 logs/ 
 /unwanted
 *.log
-.gitignore.txt
-NewFile
+.NewFile
